@@ -2,15 +2,15 @@
 
 > Ecosystem navigation preview · Documentation only
 
-DEV yetkisi ve grup güvenliği. This repository documents module ownership; active code and deployment stay in [MUBA/main](https://github.com/MUBA-RH/MUBA/tree/main).
+DEV authority and group security. This repository documents module ownership; active code and deployment stay in [MUBA/main](https://github.com/MUBA-RH/MUBA/tree/main).
 
 ## Find a module
 
 | Area | Modules in this area | Architecture | Working source |
 | --- | --- | --- | --- |
-| Yetki ve komutlar | DEV-AUTHORITY · COMMAND-CONTROL | [Architecture](https://github.com/MUBA-RH/MUBA/tree/main/architecture/03-guardian) | [Working source](https://github.com/MUBA-RH/MUBA/blob/main/telegram-bot/guardian.py) |
-| Koruma | SECURITY-POLICY · SCAM-FAKE-CA · LINK-CONTROL · FLOOD-CONTROL | [Architecture](https://github.com/MUBA-RH/MUBA/tree/main/architecture/03-guardian) | [Working source](https://github.com/MUBA-RH/MUBA/blob/main/telegram-bot/guardian.py) |
-| Moderasyon | MODERATION · SECURITY-MODES · VIOLATION-HISTORY | [Architecture](https://github.com/MUBA-RH/MUBA/tree/main/architecture/03-guardian) | [Working source](https://github.com/MUBA-RH/MUBA/blob/main/telegram-bot/guardian.py) |
+| Authority and commands | DEV-AUTHORITY · COMMAND-CONTROL | [Architecture](https://github.com/MUBA-RH/MUBA/tree/main/architecture/03-guardian) | [Working source](https://github.com/MUBA-RH/MUBA/blob/main/telegram-bot/guardian.py) |
+| Protection | SECURITY-POLICY · SCAM-FAKE-CA · LINK-CONTROL · FLOOD-CONTROL | [Architecture](https://github.com/MUBA-RH/MUBA/tree/main/architecture/03-guardian) | [Working source](https://github.com/MUBA-RH/MUBA/blob/main/telegram-bot/guardian.py) |
+| Moderation | MODERATION · SECURITY-MODES · VIOLATION-HISTORY | [Architecture](https://github.com/MUBA-RH/MUBA/tree/main/architecture/03-guardian) | [Working source](https://github.com/MUBA-RH/MUBA/blob/main/telegram-bot/guardian.py) |
 
 [All modules and flows](MODULE_MAP.md) · [Back to MUBA ecosystem](https://github.com/MUBA-RH/MUBA/tree/preview/ecosystem-navigation-20260928)
 
