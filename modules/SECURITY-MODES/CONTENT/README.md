@@ -1,0 +1,3 @@
+# SECURITY-MODES — CONTENT
+
+Scope and current source mapping for SECURITY-MODES. Document behavior and interfaces without copying runtime files or secrets.
